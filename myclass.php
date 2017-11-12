@@ -6,4 +6,9 @@
  function test();
 
 
+ function edit(){
+ 	echo "this is edit function";
+ }
+
+
 ?>
